@@ -1,2 +1,5 @@
 Tle neki delam 
 Dejmo še Tag dodat
+
+git log -s ´helo´
+git log -p hello.py
